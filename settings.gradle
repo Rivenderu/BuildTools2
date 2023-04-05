@@ -1,0 +1,4 @@
+rootProject.name = 'BuildTools2'
+include 'core'
+include 'api'
+
